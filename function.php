@@ -26,7 +26,7 @@ $the_query = new WP_Query( $args );
                 <?php the_title(); ?>
             </a>
             </div>
-            <img src="https://7enews.net/wp-content/uploads/2022/10/logo-.png" width="30px" height="30px" /> 
+            <img src="" /> 
 
     <?php endwhile; ?>
     
