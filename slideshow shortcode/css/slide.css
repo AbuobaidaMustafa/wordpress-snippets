@@ -1,0 +1,37 @@
+.w3-display,
+.w3-display:hover,
+.w3-button {
+    color: #fff !important;
+    background-color: #14246fff !important;
+}
+
+
+.w3-content {
+    max-width: 778.662px !important;
+    direction: rtl !important;
+}
+
+img.w3-animate-left {
+    border-radius: 10px 10px 0 0 !important;
+
+}
+
+.w3-padding-16 {
+    border-radius: 0 0 10px 10px !important;
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 768px) {
+    img.w3-animate-left {
+        height: 501px !important;
+    }
+}
+
+@media (max-width: 767px) {
+    img.w3-animate-left {
+        height: 300px !important;
+    }
+}
+
+
